@@ -7,7 +7,9 @@
 
     <address>
         <br />
-        <strong>To schedule a consultation or receive more information please email us:</strong> <a href="mailto:info@3dguidedmarketing.com">info@3dguidedmarketing.com</a>
+        <span style="font-size: large">
+        • To schedule a consultation or receive more information please email us: <a href="mailto:info@3dguidedmarketing.com">info@3dguidedmarketing.com</a>
+        </span>
     </address>
     <address>
         &nbsp;</address>
