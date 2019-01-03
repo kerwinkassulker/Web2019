@@ -112,7 +112,7 @@
             <div id="footer" class="container body-content">
                 
                 <footer>
-                    <p>&copy; <%: DateTime.Now.Year %> - 3D Guided Marketing [TM] </p>                
+                    <p>&copy; <%: DateTime.Now.Year %> - 3D Guided Marketing<sup>TM</sup> is a registered trademark of 3DGuidedMarketing.com </p>                
                 </footer>
             </div>
       </form>
