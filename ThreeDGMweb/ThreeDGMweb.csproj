@@ -133,6 +133,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Properties\PublishProfiles\3dguidedmarketing.com - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\3dguidedmarketing.com - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Images\3DGM_Logo.svg" />
     <Content Include="Scripts\bootstrap.js" />
