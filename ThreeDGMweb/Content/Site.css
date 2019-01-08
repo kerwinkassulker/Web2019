@@ -30,3 +30,74 @@ textarea {
     }
 }
 
+.navbar li a,
+.navbar .dropbtn {
+    color: #7030A0;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: block;
+}
+
+    .navbar li a:hover,
+    .navbar .dropdown:hover .dropbtn {
+        /*background: red;*/
+        color: black 
+    }
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    background: #f9f9f9;
+    min-width: 160px;
+    position: absolute;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+
+        .dropdown-content a:hover {
+            background: rgba(0,0,0,0.1);
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        width: 100%;
+        position: relative;
+        height: auto;
+    }
+
+        .navbar li {
+            float: left;
+        }
+
+    .content {
+        float: none;
+        width: 100%;
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .navbar li,
+    .content {
+        float: none;
+        text-align: center;
+    }
+}
+

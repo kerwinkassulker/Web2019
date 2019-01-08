@@ -111,6 +111,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\ARexample.PNG" />
+    <Content Include="Images\OfflineExample.png" />
+    <Content Include="Images\OnlineExample.svg" />
+    <Content Include="Solution3.aspx" />
+    <Content Include="Solution2.aspx" />
+    <Content Include="Solution1.aspx" />
     <Content Include="Images\3DGM_Logo_Nav.svg" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
@@ -131,6 +137,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="libman.json" />
     <None Include="Properties\PublishProfiles\3dguidedmarketing.com - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\3dguidedmarketing.com - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
@@ -171,6 +178,27 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solution3.aspx.cs">
+      <DependentUpon>Solution3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Solution3.aspx.designer.cs">
+      <DependentUpon>Solution3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Solution2.aspx.cs">
+      <DependentUpon>Solution2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Solution2.aspx.designer.cs">
+      <DependentUpon>Solution2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Solution1.aspx.cs">
+      <DependentUpon>Solution1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Solution1.aspx.designer.cs">
+      <DependentUpon>Solution1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>

@@ -7,9 +7,8 @@
 
     <span style="font-size: large">
     <br />
-    • 3D Guided Marketing<sup>TM</sup> develops Interactive Applications for Marketing that are hosted Online, Offline, or via Augmented Reality.<br />
-    <br />
-
+    • 3D Guided Marketing<sup>TM</sup> develops Interactive Applications for Marketing that are hosted Online, Offline, or via Augmented Reality.
+ 
     </span>
 
 </asp:Content>

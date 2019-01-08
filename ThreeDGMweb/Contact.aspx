@@ -5,13 +5,9 @@
       <p>&nbsp;</p>
     <h2 style="font-size: 16pt; color: #7030A0">CONTACT</h2>
 
-    <address>
         <br />
         <span style="font-size: large">
         • To schedule a consultation or receive more information please email us: <a href="mailto:info@3dguidedmarketing.com">info@3dguidedmarketing.com</a>
         </span>
-    </address>
-    <address>
-        &nbsp;</address>
 
 </asp:Content>
