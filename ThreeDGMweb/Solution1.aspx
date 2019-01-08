@@ -10,8 +10,8 @@
        • Help your online customers quickly understand important marketable features of your product with annotated 3D interactive models.
     </span>
 
-     <div style="background-image:url('/images/OnlineExample.svg');padding:0px;width:800px;height:700px;
-        margin-top:40px; background-size:100% 100%;  ">
+     <div style="background-image:url('/images/OnlineExample.svg');padding:0px;width:800px;height:575px;
+        margin-top:50px; background-size:100% 100%;  ">
      </div>       
 
 </asp:Content>
