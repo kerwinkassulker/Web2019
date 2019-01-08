@@ -111,9 +111,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\ARexample.PNG" />
-    <Content Include="Images\OfflineExample.png" />
-    <Content Include="Images\OnlineExample.svg" />
+    <Content Include="Images\ARexample.jpg" />
+    <Content Include="Images\OfflineExample.jpg" />
+    <Content Include="Images\OnlineExample.JPG" />
     <Content Include="Solution3.aspx" />
     <Content Include="Solution2.aspx" />
     <Content Include="Solution1.aspx" />

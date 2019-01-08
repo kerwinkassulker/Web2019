@@ -11,7 +11,7 @@
          and the ablity to walk around and view at all angles.
     </span>
 
-     <div style="background-image:url('/images/ARexample.png');padding:0px;width:800px;height:600px;
+     <div style="background-image:url('/images/ARexample.jpg');padding:0px;width:800px;height:600px;
         margin-top:50px; background-size:100% 100%;  ">
      </div>    
 
