@@ -111,6 +111,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Services.aspx" />
     <Content Include="Images\ARexample.jpg" />
     <Content Include="Images\OfflineExample.jpg" />
     <Content Include="Images\OnlineExample.JPG" />
@@ -173,6 +174,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Solution3.aspx.cs">
       <DependentUpon>Solution3.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -3976,9 +3976,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-left: -1px;
 }
 .nav {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
+    background-color: white;
+    height: 80px;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
 }
 .nav > li {
   position: relative;
@@ -4002,15 +4004,21 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     display: block; 
 }
 
+#header {
+    display: flex;
+    align-content: center;
+    height: 120px;
+}
+
 #menu {
     position: fixed;
     text-align: left;
     left: 200px;
-    top: 10px;
+    top: 20px;
     width: auto;
-    display: inline-flex;
-    margin: auto;
-    white-space: nowrap;   
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;    
 }
 
 .nav > li > a:hover,
@@ -4066,7 +4074,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   cursor: default;
   background-color: #fff;
   border: 1px solid #ddd;
-  border-bottom-color: transparent;
+  border-bottom-color: white;
 }
 .nav-tabs.nav-justified {
   width: 100%;
@@ -4287,8 +4295,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container-fluid > .navbar-header,
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
-  margin-right: -15px;
-  margin-left: -15px;
+    margin-right: -15px;
+    margin-left: -15px; 
 }
 @media (min-width: 768px) {
   .container > .navbar-header,

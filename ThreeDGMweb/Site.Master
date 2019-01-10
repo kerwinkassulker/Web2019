@@ -105,6 +105,7 @@
                                     <a runat="server" href="~/Solution3">Augmented Reality</a>
                                 </div>
                             </li>                            
+                            <li><a runat="server" href="~/Services">SERVICES</a></li>
                             <li><a runat="server" href="~/Contact">CONTACT</a></li>
                         </ul>                      
                     </div>
