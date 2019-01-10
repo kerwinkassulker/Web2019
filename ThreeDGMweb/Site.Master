@@ -93,7 +93,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     </div>--%>
-                    <div class="navbar">
+                    <div class="navbar" id="menu">
                         <ul class="nav navbar-nav">
                             <li><a runat="server" href="~/"> <img src = /images/3DGM_Logo_Nav.svg /> </a></li>
                             <li><a runat="server" href="~/About">ABOUT</a></li>

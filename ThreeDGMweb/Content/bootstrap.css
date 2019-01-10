@@ -3998,11 +3998,20 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     font-size: 18px;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 10px 15px;
-    display: block;
+    padding: 15px 15px;
+    display: block; 
 }
 
-
+#menu {
+    position: fixed;
+    text-align: left;
+    left: 200px;
+    top: 10px;
+    width: auto;
+    display: inline-flex;
+    margin: auto;
+    white-space: nowrap;   
+}
 
 .nav > li > a:hover,
 .nav > li > a:focus {
