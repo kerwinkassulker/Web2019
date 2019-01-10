@@ -3984,11 +3984,26 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
 }
-.nav > li > a {
-  position: relative;
-  display: block;
-  padding: 10px 15px;
+    /*.nav > li > a {
+        color: #7030A0;
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+        font-size: 18px;
+    }*/
+
+.navbar li a,
+.navbar .dropbtn {
+    color: #7030A0;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
 }
+
+
+
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
@@ -4059,6 +4074,37 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   top: auto;
   left: auto;
 }
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    background: #f9f9f9;
+    min-width: 160px;
+    position: absolute;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 10px 15px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+
+        .dropdown-content a:hover {
+            background: rgba(0,0,0,0.1);
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
 @media (min-width: 768px) {
   .nav-tabs.nav-justified > li {
     display: table-cell;
@@ -4267,7 +4313,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-fixed-top {
-  top: 9px;
+  top: 0px;
   border-width: 0 0 1px;
 }
 .navbar-fixed-bottom {
