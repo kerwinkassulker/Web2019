@@ -96,17 +96,17 @@
                     <div class="navbar" id="menu">
                         <ul class="nav navbar-nav">
                             <li><a runat="server" href="~/"> <img src = /images/3DGM_Logo_Nav.svg /> </a></li>
-                            <li><a runat="server" href="~/About">ABOUT</a></li>
+                            <li><a runat="server" href="~/About">About</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropbtn">SOLUTIONS</a>
+                                <a href="#" class="dropbtn">Solutions</a>
                                 <div class="dropdown-content">
                                     <a runat="server" href="~/Solution1">Online</a>
                                     <a runat="server" href="~/Solution2">Offline</a>
                                     <a runat="server" href="~/Solution3">Augmented Reality</a>
                                 </div>
                             </li>                            
-                            <li><a runat="server" href="~/Services">SERVICES</a></li>
-                            <li><a runat="server" href="~/Contact">CONTACT</a></li>
+                            <li><a runat="server" href="~/Services">Services</a></li>
+                            <li><a runat="server" href="~/Contact">Contact</a></li>
                         </ul>                      
                     </div>
                 </div>

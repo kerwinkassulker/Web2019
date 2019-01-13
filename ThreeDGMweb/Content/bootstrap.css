@@ -1475,7 +1475,7 @@ abbr[data-original-title] {
 }
 .initialism {
   font-size: 90%;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 blockquote {
   padding: 10px 20px;
@@ -3998,7 +3998,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar .dropbtn {
     color: #7030A0;
     font-size: 18px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     text-decoration: none;
     padding: 15px 15px;
     display: block; 

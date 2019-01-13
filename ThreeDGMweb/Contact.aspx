@@ -3,7 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
       <p>&nbsp;</p>
-    <h2 style="font-size: 16pt; color: #7030A0">CONTACT</h2>
+      <br />
+    <h2 style="font-size: 14pt; color: #7030A0">CONTACT</h2>
 
         <br />
         <span style="font-size: large">
