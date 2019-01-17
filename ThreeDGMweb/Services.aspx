@@ -12,7 +12,8 @@
       
     - 3D Product Configurators. <br />
     - 3D Product Animations. <br />
-    - 2D Assisted Reality Applications. <br /><br />
+    - 2D Assisted Reality Applications. <br />
+    - AR Kiosks for trade shows. <br /><br />
         
     *Please contact us for details.
  
