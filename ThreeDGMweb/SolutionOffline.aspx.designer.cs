@@ -10,6 +10,6 @@
 namespace ThreeDGMweb {
     
     
-    public partial class Solution2 {
+    public partial class SolutionOffline {
     }
 }

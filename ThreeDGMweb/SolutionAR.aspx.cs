@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace ThreeDGMweb
 {
-    public partial class Solution2 : Page
+    public partial class SolutionAR : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

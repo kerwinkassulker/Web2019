@@ -115,9 +115,9 @@
     <Content Include="Images\ARexample.jpg" />
     <Content Include="Images\OfflineExample.jpg" />
     <Content Include="Images\OnlineExample.JPG" />
-    <Content Include="Solution3.aspx" />
-    <Content Include="Solution2.aspx" />
-    <Content Include="Solution1.aspx" />
+    <Content Include="SolutionAR.aspx" />
+    <Content Include="SolutionOffline.aspx" />
+    <Content Include="SolutionOnline.aspx" />
     <Content Include="Images\3DGM_Logo_Nav.svg" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
@@ -181,26 +181,26 @@
     <Compile Include="Services.aspx.designer.cs">
       <DependentUpon>Services.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Solution3.aspx.cs">
-      <DependentUpon>Solution3.aspx</DependentUpon>
+    <Compile Include="SolutionAR.aspx.cs">
+      <DependentUpon>SolutionAR.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Solution3.aspx.designer.cs">
-      <DependentUpon>Solution3.aspx</DependentUpon>
+    <Compile Include="SolutionAR.aspx.designer.cs">
+      <DependentUpon>SolutionAR.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Solution2.aspx.cs">
-      <DependentUpon>Solution2.aspx</DependentUpon>
+    <Compile Include="SolutionOffline.aspx.cs">
+      <DependentUpon>SolutionOffline.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Solution2.aspx.designer.cs">
-      <DependentUpon>Solution2.aspx</DependentUpon>
+    <Compile Include="SolutionOffline.aspx.designer.cs">
+      <DependentUpon>SolutionOffline.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Solution1.aspx.cs">
-      <DependentUpon>Solution1.aspx</DependentUpon>
+    <Compile Include="SolutionOnline.aspx.cs">
+      <DependentUpon>SolutionOnline.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Solution1.aspx.designer.cs">
-      <DependentUpon>Solution1.aspx</DependentUpon>
+    <Compile Include="SolutionOnline.aspx.designer.cs">
+      <DependentUpon>SolutionOnline.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Solutions" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Solution3.aspx.cs" Inherits="ThreeDGMweb.Solution3" %>
+﻿<%@ Page Title="Solutions" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SolutionAR.aspx.cs" Inherits="ThreeDGMweb.SolutionAR" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
