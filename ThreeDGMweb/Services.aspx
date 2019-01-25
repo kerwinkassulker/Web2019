@@ -8,12 +8,12 @@
     
     <span style="font-size: large">
     <br />
-    • In additon to our Solutions - 3D Guided Marketing<sup>TM</sup> offers the following development services: <br /> 
+    • In additon to our Solutions - 3D Guided Marketing<sup>TM</sup> offers the following Services: <br /> 
       <br />
       
-    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9312;</span> Augmented Reality Marketing Videos.<br />
-    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9313;</span> Augmented Reality Kiosks for trade shows. <br />
-    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9314;</span> 3D Product Animations that can be interactive.<br />
+    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9312;</span> AR Videography & Photography.<br />
+    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9313;</span> AR Kiosks for trade shows. <br />
+    <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9314;</span> 3D Product Animations that are Interactive.<br />
     <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9315;</span> 3D Product Configurators. <br />
     <span style="font-size: 150%; vertical-align:middle; color: #7030A0;">&#9316;</span> 2D Assisted Reality Applications. <br />
       <br />
