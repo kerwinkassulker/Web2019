@@ -111,6 +111,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Rover.aspx" />
     <Content Include="Example.aspx" />
     <Content Include="Services.aspx" />
     <Content Include="Images\ARexample.jpg" />
@@ -175,6 +176,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Rover.aspx.cs">
+      <DependentUpon>Rover.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rover.aspx.designer.cs">
+      <DependentUpon>Rover.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Example.aspx.cs">
       <DependentUpon>Example.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
