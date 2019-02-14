@@ -112,6 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Demo.aspx" />
+    <Content Include="Rover4WD.aspx" />
     <Content Include="Rover.aspx" />
     <Content Include="Example.aspx" />
     <Content Include="Services.aspx" />
@@ -183,6 +184,13 @@
     </Compile>
     <Compile Include="Demo.aspx.designer.cs">
       <DependentUpon>Demo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Rover4WD.aspx.cs">
+      <DependentUpon>Rover4WD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rover4WD.aspx.designer.cs">
+      <DependentUpon>Rover4WD.aspx</DependentUpon>
     </Compile>
     <Compile Include="Rover.aspx.cs">
       <DependentUpon>Rover.aspx</DependentUpon>
