@@ -1,4 +1,4 @@
-﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Rover4WD.aspx.cs" Inherits="ThreeDGMweb.Rover4WD" %>
+﻿<%@ Page Title="Rover4WD" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Rover4WD.aspx.cs" Inherits="ThreeDGMweb.Rover4WD" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
