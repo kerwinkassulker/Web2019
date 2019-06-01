@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="497"
+   width="400"
    height="400"
-   viewBox="0 0 131.49759 105.83334"
+   viewBox="0 0 105.83333 105.83334"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="215.5819"
+     inkscape:cx="347.45731"
      inkscape:cy="206.10903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1080"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -53,71 +53,70 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-191.16661)"
-     style="opacity:0.93999999">
+     transform="translate(0,-191.16661)">
     <path
        style="opacity:0;fill:#7030a0;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 19.590856,226.81502 c 0.668173,-0.80181 22.317007,-22.58427 22.317007,-22.58427 v 0"
+       d="m 9.488067,226.81502 c 0.668173,-0.80181 22.317007,-22.58427 22.317007,-22.58427 v 0"
        id="path3724"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55430317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 32.537781,223.31239 53.73056,201.54191"
+       d="M 22.434992,223.31239 43.627771,201.54191"
        id="path4531"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.54952663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.630676,234.43969 21.01495,-21.57797"
+       d="m 62.527887,234.43969 21.01495,-21.57797"
        id="path4531-6"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55225927;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 53.466584,201.61239 40.350842,11.34998"
+       d="m 43.363795,201.61239 40.350842,11.34998"
        id="path4531-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.585936,223.16481 40.04491,11.27471"
+       d="m 22.483147,223.16481 40.04491,11.27471"
        id="path4531-2-0"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.706876,212.6965 c 0.0467,28.81664 0.0467,28.81664 0.0467,28.81664"
+       d="m 83.604087,212.6965 c 0.0467,28.81664 0.0467,28.81664 0.0467,28.81664"
        id="path4581"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.585988,223.12901 c 0.0466,17.07151 0.0466,17.07151 0.0466,17.07151"
+       d="m 22.483199,223.12901 c 0.0466,17.07151 0.0466,17.07151 0.0466,17.07151"
        id="path4581-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.628446,248.7155 c 0.04677,14.5557 0.04677,14.5557 0.04677,14.5557"
+       d="m 22.525657,248.7155 c 0.04677,14.5557 0.04677,14.5557 0.04677,14.5557"
        id="path4581-2-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.51197,263.00968 40.330496,11.34157"
+       d="m 22.409181,263.00968 40.330496,11.34157"
        id="path4531-2-0-3"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.673436,248.82244 c 0.0467,25.53631 0.0467,25.53631 0.0467,25.53631"
+       d="m 62.570647,248.82244 c 0.0467,25.53631 0.0467,25.53631 0.0467,25.53631"
        id="path4581-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.630626,234.44096 c 0.0472,6.8959 0.0472,6.8959 0.0472,6.8959"
+       d="m 62.527837,234.44096 c 0.0472,6.8959 0.0472,6.8959 0.0472,6.8959"
        id="path4581-2-7-8"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.907776,248.78822 c 0.0477,4.2203 0.0477,4.2203 0.0477,4.2203"
+       d="m 83.804987,248.78822 c 0.0477,4.2203 0.0477,4.2203 0.0477,4.2203"
        id="path4581-2-7-8-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#7030a0;stroke-width:0.55532128;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.572266,274.41982 21.43233,-21.6063"
+       d="m 62.469477,274.41982 21.43233,-21.6063"
        id="path4531-6-1"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -133,12 +132,12 @@
          id="flowPara4694" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
-       x="23.844992"
+       x="13.742204"
        y="246.96236"
        id="text4698"><tspan
          sodipodi:role="line"
          id="tspan4696"
-         x="23.844992"
+         x="13.742204"
          y="246.96236"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1">3DGuidedMarketing.com</tspan></text>
     <flowRoot
@@ -178,15 +177,16 @@
            y="450.06113" /></flowRegion><flowPara
          id="flowPara853" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81259441px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18316443"
-       x="3.4593992"
-       y="210.20465"
+       style="font-style:normal;font-weight:normal;font-size:9.36199284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23404981"
+       x="14.344806"
+       y="251.3463"
        id="text857"
-       transform="scale(0.73861146,1.3538918)"><tspan
+       transform="scale(0.88459777,1.1304573)"><tspan
          sodipodi:role="line"
-         id="tspan4564"
-         x="3.4593992"
-         y="210.20465">We Guide your Customers to a Quick Understanding of your Product or Process!</tspan></text>
+         id="tspan855"
+         x="14.344806"
+         y="251.3463"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36893034px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.23404981">Interactive Marketing that 'Guides' your Customers</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot859"

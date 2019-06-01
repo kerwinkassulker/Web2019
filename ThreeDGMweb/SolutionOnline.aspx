@@ -8,10 +8,10 @@
 
     <span style="font-size: Large">
        <br />
-       • Help your online customers quickly understand important marketable features of your product with annotated 3D interactive models.
+       • Help 'Guide' your Online Customers to quickly understand important Marketable Features of your Product with Annotated Interactive 3D Models.
     </span>
 
-    <div style="background-image: url('/images/OnlineExample.jpg'); padding: 0px; width: 700px; height: 575px; margin-top: 50px; background-size: 100% 100%">
+    <div style="background-image: url('/images/OnlineSolution.jpg'); padding: 0px; width: 650px; height: 525px; margin-top: 50px; background-size: 100% 100%">
     </div>       
 
 </asp:Content>

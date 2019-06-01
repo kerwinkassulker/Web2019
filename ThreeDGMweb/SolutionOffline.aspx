@@ -11,7 +11,7 @@
        • Empower your sales staff with the ability to interactively demonstrate your products on a tablet or laptop when offline.
     </span>
 
-     <div style="background-image:url('/images/OfflineExample.jpg');padding:0px;width:800px;height:600px;
+     <div style="background-image:url('/images/OfflineSolution.jpg');padding:0px;width:750px;height:550px;
         margin-top:50px; background-size:100% 100%;  ">
      </div>    
 

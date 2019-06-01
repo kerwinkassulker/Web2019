@@ -8,7 +8,8 @@
 
         <br />
         <span style="font-size: large">
-        • To schedule a consultation or receive more information please email us: <a href="mailto:info@3dguidedmarketing.com">info@3dguidedmarketing.com</a>
+        • To schedule a consultation or receive more information please email us at: <a href="mailto:info@3dguidedmarketing.com">info@3dguidedmarketing.com</a><br />
+        <!-- • For support please email us at: <a href="mailto:support@3dguidedmarketing.com">support@3dguidedmarketing.com</a> -->
         </span>
 
 </asp:Content>

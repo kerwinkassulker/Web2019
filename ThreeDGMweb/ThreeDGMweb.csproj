@@ -111,6 +111,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\OfflineSolution.JPG" />
+    <Content Include="Images\OnlineSolution.JPG" />
     <Content Include="Selling.aspx" />
     <Content Include="Demo.aspx" />
     <Content Include="Rover4WD.aspx" />
