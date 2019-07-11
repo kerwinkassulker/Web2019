@@ -100,8 +100,7 @@
                             <li class="dropdown">
                                 <a href="#" class="dropbtn">Solutions</a>
                                 <div class="dropdown-content">
-                                    <a runat="server" href="~/SolutionOnline">Online</a>
-                                    <a runat="server" href="~/SolutionOffline">Offline</a>
+                                    <a runat="server" href="~/SolutionOnline">3D Web</a>
                                     <a runat="server" href="~/SolutionAR">Augmented Reality</a>
                                 </div>
                             </li>                            
@@ -124,7 +123,7 @@
             <div id="footer" class="container body-content">
                 
                 <footer>
-                    <p>&copy; <%: DateTime.Now.Year %> - 3D Guided Marketing<sup>TM</sup> is a registered trademark of 3DGuidedMarketing.com </p>                
+                    <p>&copy; <%: DateTime.Now.Year %> - 3D Guided Marketing<sup>TM</sup> is a registered trademark of 3D Guided LLC. </p>                
                 </footer>
             </div>
       </form>

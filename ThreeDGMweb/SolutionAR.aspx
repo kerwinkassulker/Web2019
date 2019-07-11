@@ -4,7 +4,7 @@
 
     <p>&nbsp;</p>
       <br />
-    <h2 style="font-size: 14pt; color: #7030A0">&nbsp;AUGMENTED REALITY</h2>
+    <h2 style="font-size: 14pt; color: #7030A0">&nbsp;AUGMENTED REALITY MARKETING SOLUTIONS</h2>
 
     <span style="font-size: Large">
        <br />
