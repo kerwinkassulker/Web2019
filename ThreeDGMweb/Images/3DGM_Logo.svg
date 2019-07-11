@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="215.5819"
+     inkscape:cx="33.501909"
      inkscape:cy="206.10903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="px" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,15 +178,15 @@
            y="450.06113" /></flowRegion><flowPara
          id="flowPara853" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81259441px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18316443"
-       x="3.4593992"
-       y="210.20465"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81259489px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18316443"
+       x="2.446208"
+       y="210.6192"
        id="text857"
        transform="scale(0.73861146,1.3538918)"><tspan
          sodipodi:role="line"
-         id="tspan4564"
-         x="3.4593992"
-         y="210.20465">We Guide your Customers to a Quick Understanding of your Product or Process!</tspan></text>
+         id="tspan849"
+         x="2.446208"
+         y="210.6192">Guide your Customers toward a Quick Understanding of your Product or Process!</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot859"
