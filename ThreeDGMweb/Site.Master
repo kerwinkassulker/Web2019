@@ -100,7 +100,7 @@
                             <li class="dropdown">
                                 <a href="#" class="dropbtn">Solutions</a>
                                 <div class="dropdown-content">
-                                    <a runat="server" href="~/SolutionOnline">3D Web</a>
+                                    <a runat="server" href="~/SolutionOnline">3D Web Models</a>
                                     <a runat="server" href="~/SolutionAR">Augmented Reality</a>
                                 </div>
                             </li>                            
